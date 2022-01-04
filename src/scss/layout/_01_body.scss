@@ -1,0 +1,11 @@
+.body {
+  font-family: $mainFont;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.overflow__hidden {
+  height: 100%;
+  overflow: hidden;
+}
